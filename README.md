@@ -1,1 +1,3 @@
-konteskoding
+KontesKoding
+
+The Magic Number.
